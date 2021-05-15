@@ -8,4 +8,4 @@ Who am I?
 - [X] A website with fun mini games that you can play using your 🍅 as lives!
 - [X] A database that holds user settings and high scores.
 > What's my role in all of this?
-- I'm the Product Owner and Lead Developer of the Discord Bot thats currently being developed in javascript. 
+- I'm the Product Owner of the project and Lead Developer of the Discord Bot thats currently being developed in javascript. 
