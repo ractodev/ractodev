@@ -1,7 +1,7 @@
 Who am I?
 
 - 📚 I'm a Information and Communication Technology (CINTE) student at the Royal Institute of Technology in Stockholm.
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/erikwinbladh), [Instagram](https://www.instagram.com/erik.winbladh).
+- 📫 How to reach me: www.linkedin.com/in/erikwinbladh, [Instagram](https://www.instagram.com/erik.winbladh).
 - 🔭 I’m currently working on a Discord Application that will help student optimize their time and have a little bit of fun in the meantime. This project will be uploaded soon, so stay tuned!
 > What's included in the project:
 - [X] A Discord Bot.
